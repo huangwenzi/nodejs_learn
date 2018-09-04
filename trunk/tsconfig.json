@@ -1,0 +1,15 @@
+{
+	"compilerOptions": {
+		"module": "commonjs",
+		"noImplicitAny": false,
+		"removeComments": true,
+		"preserveConstEnums": true,
+		"strictNullChecks": true,
+		"strictFunctionTypes": true,
+        "forceConsistentCasingInFileNames": true,
+		"sourceMap": false,
+		"pretty": true,
+		"watch": false,
+		"target": "es2017"
+	}
+}
